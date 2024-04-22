@@ -1,5 +1,4 @@
-
-
+// how to make binary tree 
 public class binarytree {
   
         public static class Node{
